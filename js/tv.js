@@ -31,27 +31,42 @@ var Globals = {
 
     promo: {
 
-        'channel': 'Vice',
+        'channel': '天才衝衝衝',
         'type': 'youtube',
         'videos': [
             {
-                'id': 'X51rPtxmd3Y',
-                'title': 'VICE Season 1 Trailer'
+                'id': 'xM_OTCJSd9A',
+                'title': '天才衝衝衝 睜眼說瞎話'
             },
 
             {
-                'title': 'VICE Season 1 Preview',
-                'id': '56lGttuY0cY'
+                'title': '1214天才衝衝衝-1',
+                'id': 'k3_rAN9qfx0'
             },
 
             {
-                'title': 'What is VICE? Featurette',
-                'id': 'UT18_goPvHc'
+                'title': '1214天才衝衝衝-2',
+                'id': 'S8HUGjngplI'
             },
 
             {
-                'title': 'What is VICE? Extended Version',
-                'id': '5jhYMlfuVNI'
+                'title': '1214天才衝衝衝-3',
+                'id': '_2chZmqY1MM'
+            },
+
+            {
+                'title': '1214天才衝衝衝-4',
+                'id': 'uD0O-0ff2rw'
+            },
+
+            {
+                'title': '1214天才衝衝衝-5',
+                'id': 'jpW5NpuWN3c'
+            },
+
+            {
+                'title': '1214天才衝衝衝-6',
+                'id': 'QFed4LdMiNY'
             }
         ]
     },
